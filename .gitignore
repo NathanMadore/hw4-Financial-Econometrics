@@ -1,0 +1,18 @@
+# Python / uv
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Write-up drafts (submitted separately, not part of the repo)
+*.docx
+*.pdf
+!Sources/*.pdf
+~$*
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
